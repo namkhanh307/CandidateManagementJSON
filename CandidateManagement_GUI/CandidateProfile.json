@@ -1,0 +1,29 @@
+[
+  {
+    "CandidateId": "CANDIDATE0011",
+    "Fullname": "Nguyen Viet Nam Khanh",
+    "Birthday": "2024-11-26T00:00:00",
+    "ProfileShortDescription": "11",
+    "ProfileUrl": "11",
+    "PostingId": "P0001",
+    "Posting": null
+  },
+  {
+    "CandidateId": "CANDIDATE0010",
+    "Fullname": "Nguyen Viet Nam Khanh",
+    "Birthday": "2024-11-04T00:00:00",
+    "ProfileShortDescription": "`",
+    "ProfileUrl": "`",
+    "PostingId": "P0001",
+    "Posting": null
+  },
+  {
+    "CandidateId": "CANDIDATE00112",
+    "Fullname": "Nguyen Viet Nam Khanh",
+    "Birthday": "2024-11-03T00:00:00",
+    "ProfileShortDescription": "1",
+    "ProfileUrl": "1",
+    "PostingId": "P0001",
+    "Posting": null
+  }
+]
